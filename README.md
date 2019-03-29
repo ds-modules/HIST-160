@@ -1,4 +1,4 @@
-# HIST-159B
+# HIST-160
 ## European Economic History
 ### Professor: Andrej Milivojevic
 #### Developer Team: Alec Kan (lead), Beom Jin Lee, Anusha Mohan
